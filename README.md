@@ -1,4 +1,4 @@
-<p align=center> MAIN README </p>
+<h1 align=center> MAIN README </h1>
 ============
 
 Paragraphs are separated by a blank line.

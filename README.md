@@ -1,4 +1,4 @@
-MAIN README
+<p align=center> MAIN README </p>
 ============
 
 Paragraphs are separated by a blank line.
@@ -134,6 +134,24 @@ oranges
   : Citrus!
 tomatoes
   : There's no "e" in tomatoe.
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 
 Again, text is indented 4 spaces. (Put a blank line between each
 term/definition pair to spread things out more.)

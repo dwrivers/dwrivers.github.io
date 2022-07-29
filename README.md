@@ -35,6 +35,8 @@ Here's a numbered list:
  2. second item
  3. third item
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
 Note again how the actual text starts at 4 columns in (4 characters
 from the left side). Here's a code sample:
 

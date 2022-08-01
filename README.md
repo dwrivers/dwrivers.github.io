@@ -1,7 +1,9 @@
 <h1 align=center> MAIN README </h1>
 ============
 
-Look at my <a href="https://dwrivers.github.io/resume/">resume</a>.
+[comment]: # "https://dwrivers.github.io/resume/" 
+
+Look at my <a href="https://dwrivers.github.io/resume/DannyRiversResume040722.pdf" >resume</a>.
 Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
